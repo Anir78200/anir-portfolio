@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -17,7 +17,7 @@
   <header>
     <h1>Anir Boudalil</h1>
     <p>Étudiant BTS SIO - Spécialité SISR</p>
-    <p>Mantes-la-Jolie | anir@example.com | 06 00 00 00 00</p>
+    <p>Mantes-la-Jolie | anirboudalil@gmail.com | 06 55 11 86 18</p>
   </header>
 
   <section>
