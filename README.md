@@ -10,6 +10,7 @@
     section { padding: 2em; max-width: 900px; margin: auto; background-color: white; margin-bottom: 1em; }
     h1, h2 { color: #2c3e50; }
     ul { padding-left: 1.2em; }
+    a { color: #2980b9; text-decoration: none; }
   </style>
 </head>
 <body>
@@ -38,10 +39,23 @@
   <section>
     <h2>Projets</h2>
     <ul>
-      <li><strong>Serveur DNS (Ubuntu + Webmin) :</strong> zone anir.local</li>
+      <li><strong>Serveur DNS (Ubuntu + Webmin) :</strong> zone anir.local, configuration BIND9, <a href="#dns">voir détails ci-dessous</a></li>
       <li><strong>Active Directory :</strong> utilisateurs, GPO, connexions clients</li>
       <li><strong>GLPI :</strong> tickets, parc informatique</li>
     </ul>
+  </section>
+
+  <section>
+    <h2 id="dns">Projet : Configuration d’un Serveur DNS avec Webmin</h2>
+    <p>Réalisation d’un serveur DNS sur Ubuntu à l’aide de Webmin :</p>
+    <ul>
+      <li>Installation de BIND9</li>
+      <li>Création d’une zone directe "anir.local"</li>
+      <li>Configuration des enregistrements A, NS et PTR</li>
+      <li>Captures de la configuration via Webmin</li>
+      <li>Présentation PowerPoint réalisée pour expliquer le projet</li>
+    </ul>
+    <p><em>Fichier PowerPoint disponible sur demande.</em></p>
   </section>
 
   <section>
