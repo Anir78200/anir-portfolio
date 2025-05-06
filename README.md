@@ -40,7 +40,7 @@
     <h2>Projets</h2>
     <ul>
       <li><strong>Serveur DNS (Ubuntu + Webmin) :</strong> zone anir.local, configuration BIND9, <a href="#dns">voir détails ci-dessous</a></li>
-      <li><strong>Active Directory :</strong> utilisateurs, GPO, connexions clients</li>
+      <li><strong>Active Directory :</strong> utilisateurs, GPO, connexions clients, <a href="#ad">voir détails ci-dessous</a></li>
       <li><strong>GLPI :</strong> tickets, parc informatique</li>
     </ul>
   </section>
@@ -56,6 +56,19 @@
       <li>Présentation PowerPoint réalisée pour expliquer le projet</li>
     </ul>
     <p><em>Fichier PowerPoint disponible sur demande.</em></p>
+  </section>
+
+  <section>
+    <h2 id="ad">Projet : Installation et Configuration d’un Active Directory</h2>
+    <p>Projet réalisé sur Windows 10 et Windows Server 2019 :</p>
+    <ul>
+      <li>Installation d’un contrôleur de domaine</li>
+      <li>Création de comptes utilisateurs et OU</li>
+      <li>Mise en place de GPO (mot de passe, fond d’écran, scripts)</li>
+      <li>Connexion de clients Windows au domaine</li>
+      <li>Documentation détaillée dans une présentation .odp</li>
+    </ul>
+    <p><em>Fichier de présentation disponible sur demande.</em></p>
   </section>
 
   <section>
